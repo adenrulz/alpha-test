@@ -131,6 +131,10 @@ h4 {
 }
 
 .right-menu a {
+  padding: 10px 0;
+}
+
+.right-menu a {
   color: #ffffff;
   display: block;
   text-decoration: none;
@@ -161,16 +165,20 @@ iframe#instagram-embed-0 {
     text-decoration: none;
     display: inline-block;
   }
+
   h1 {
     font-weight: 400;
     font-size: 1.25rem;
   }
+
   .button-cta {
     font-size: 0.55em;
   }
+
   .social {
     max-width: 220px;
     margin: auto;
   }
 }
+
 /*# sourceMappingURL=style.css.map */
