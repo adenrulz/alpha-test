@@ -179,6 +179,17 @@ iframe#instagram-embed-0 {
     max-width: 220px;
     margin: auto;
   }
-}
 
-/*# sourceMappingURL=style.css.map */
+  .header-cta {
+    position: fixed;
+    width: 150px;
+    left: 100%;
+    top: 30%;
+    transform-origin: 0% 0%;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg) translateX(-50%);
+  }
+}
