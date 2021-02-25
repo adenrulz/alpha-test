@@ -5,13 +5,13 @@ body {
   -webkit-text-size-adjust: 100%;
   height: 100%;
   line-height: 1.5;
-  color: #01200F;
+  color: #002642;
   text-rendering: optimizeLegibility;
-  background-color: #9EC5AB;
+  background-color: #E5DADA;
 }
 
 .darkgreen-bg {
-  background-color: #01200F;
+  background-color: #002642;
   color: #E5DADA;
 }
 
@@ -111,9 +111,9 @@ h4 {
 }
 
 .button-cta {
-  border-color: #ef8d92;
-  color: #fff;
-  background-color: #e31b23;
+  border-color: #840032;
+  color: #E5DADA;
+  background-color: #840032;
   border-radius: 4px;
   text-transform: uppercase;
   font-weight: 600;
@@ -131,9 +131,9 @@ h4 {
   position: fixed;
   right: 0;
   top: 40%;
-  background-color: #104F55;
+  background-color: #002642;
   padding: 10px;
-
+  color: #ffffff;
 }
 
 .right-menu a {
@@ -141,7 +141,7 @@ h4 {
 }
 
 .right-menu a {
-  color: #fff;
+  color: #ffffff;
   display: block;
   text-decoration: none;
 }
