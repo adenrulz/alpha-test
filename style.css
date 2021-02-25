@@ -90,6 +90,7 @@ h4 {
 .lang-bar {
   position: fixed;
   width: 100%;
+  z-index: 999;
 }
 
 .lang-bar .nav-item {
